@@ -1,0 +1,35 @@
+body{
+    font-family: "stylesheet";
+    background-color: black;
+}
+.all{
+    width: 400px;background-color: white;margin: 90px auto;
+}
+.title{
+    display:flex; padding: 10px;
+}
+img{
+    height: 65px;
+}
+h1{
+    width: 100%;
+}
+.complement1{
+    display:flex; 
+}
+.text, .list {
+    width: 50%; padding: 0 10px;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    margin: 2px 0;
+    border: 0;
+    border-bottom: 1px solid #000;
+}
+.final{
+    text-align: center; padding: 10px;
+}
+button{
+    padding: 10px 20px; font-size: 15px; 
+}
